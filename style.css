@@ -7,3 +7,14 @@ em
 {
 	font-weight: bold;
 }
+
+div
+{
+	border-style: solid;
+	border-width: 2px;
+	padding-left: 6px;
+	padding-right: 6px;
+	border-color: rgba(0,127,255,0.7);
+	text-align: justify;
+}
+ 
